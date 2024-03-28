@@ -19,6 +19,7 @@ FirstName =input()
 LastName=input()
 print("Hello "+FirstName + " "+ LastName)
 
+
 #Brand name generator
 #1.Welcome greetings
 print("Welcome to brand name generator\n")
